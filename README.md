@@ -1,53 +1,13 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ABFD&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ABFD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Emanuel+Bonfim;I'm+40+years+old;I'm+from+São+Luís,+MA;I'm+a+developer+constantly+learning;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<!--
-**emanuellbonfim-dev/emanuellbonfim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Hi there 👋
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div>
-  
-  <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/emanuelbonfim/">Emanuel Bonfim 😃️ 👋</a>
-  </h1>
-  
-  <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
-    <a href="https://www.youtube.com/channel/UCaG4S4L0MydEASKNgHPSCEw?sub_confirmation=1" target="_blank">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
-           target="_blank" 
-      />
-    </a>  
-  </p>
-  
-  <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
-  </p>
-  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emanuellbonfim-dev&show_icons=true&count_private=true&hide_border=true&title_color=00ABFD&icon_color=00ABFD&text_color=c9d1d9&bg_color=0d1117" alt="Emanuel Bonfim github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellbonfim-dev&layout=compact&hide_border=true&title_color=00ABFD&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-<div align="center">
-  <a href="https://github.com/emanuellbonfim-dev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emanuellbonfim-dev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellbonfim-dev&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
+ 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
@@ -76,6 +36,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<!--   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div> -->
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abfd&height=120&section=footer"/>
